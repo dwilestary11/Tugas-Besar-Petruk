@@ -1,0 +1,34 @@
+D:\SEMESTER 4\Pemrograman Terstruktur Praktek\TUGAS BESAR\Apotek\Apotek\bin\Debug\Apotek.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Apotek\Apotek\bin\Debug\Transaksi.resx
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Apotek\Apotek\bin\Debug\Transaksi.cs
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Apotek\Apotek\bin\Debug\Transaksi.Designer.cs
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Apotek\Apotek\bin\Debug\Apotek.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Apotek\Apotek\bin\Debug\Apotek.exe
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Apotek\Apotek\bin\Debug\Apotek.pdb
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Apotek\Apotek\bin\Debug\id-ID\Apotek.resources.dll
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Apotek\Apotek\obj\Debug\Apotek.Login.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Apotek\Apotek\obj\Debug\Apotek.karantina.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Apotek\Apotek\obj\Debug\Apotek.Transaksi.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Apotek\Apotek\obj\Debug\Apotek.menu.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Apotek\Apotek\obj\Debug\Apotek.History.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Apotek\Apotek\obj\Debug\Apotek.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Apotek\Apotek\obj\Debug\Apotek.menu.id-ID.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Apotek\Apotek\obj\Debug\Apotek.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Apotek\Apotek\obj\Debug\id-ID\Apotek.resources.dll
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Apotek\Apotek\obj\Debug\Apotek.exe
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Apotek\Apotek\obj\Debug\Apotek.pdb
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Apotek\Apotek\obj\Debug\Apotek.csprojResolveAssemblyReference.cache
+D:\TBPetruk\Apotek\Apotek\bin\Debug\Apotek.exe.config
+D:\TBPetruk\Apotek\Apotek\obj\Debug\Apotek.exe
+D:\TBPetruk\Apotek\Apotek\obj\Debug\Apotek.pdb
+D:\TBPetruk\Apotek\Apotek\obj\Debug\Apotek.csprojResolveAssemblyReference.cache
+D:\TBPetruk\Apotek\Apotek\obj\Debug\Apotek.Login.resources
+D:\TBPetruk\Apotek\Apotek\obj\Debug\Apotek.karantina.resources
+D:\TBPetruk\Apotek\Apotek\obj\Debug\Apotek.Transaksi.resources
+D:\TBPetruk\Apotek\Apotek\obj\Debug\Apotek.menu.resources
+D:\TBPetruk\Apotek\Apotek\obj\Debug\Apotek.History.resources
+D:\TBPetruk\Apotek\Apotek\obj\Debug\Apotek.menu.id-ID.resources
+D:\TBPetruk\Apotek\Apotek\obj\Debug\Apotek.csproj.GenerateResource.Cache
+D:\FinalProject_5160411360_368_380\Apotek\Apotek\bin\Debug\Apotek.exe.config
+D:\FinalProject_5160411360_368_380\Apotek\Apotek\obj\Debug\Apotek.exe
+D:\FinalProject_5160411360_368_380\Apotek\Apotek\obj\Debug\Apotek.pdb
